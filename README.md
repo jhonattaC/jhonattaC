@@ -1,7 +1,6 @@
-## Hi there 👋
+## Olá, eu sou o Jhonata!
 
-<!--
-**jhonattaC/jhonattaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou profissional especializado em cibersegurança, com foco na proteção de sistemas, redes e aplicações usando ferramentas e práticas modernas de segurança da informação.
 
 Here are some ideas to get you started:
 
