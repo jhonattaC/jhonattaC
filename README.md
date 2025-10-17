@@ -1,5 +1,3 @@
-##Cibersegurança 🪖
-
 ##
 
 <div align="center">
