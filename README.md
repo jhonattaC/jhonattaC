@@ -7,6 +7,7 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="tor" height="30" width="40" src="https://raw.githubusercontent.com/TheTorProject/tor-media/refs/heads/master/Onion%20Icon/Onion_Color.svg">
 </div>
 
 ##
