@@ -9,6 +9,8 @@
   <img align="center" alt="terminal" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
   <img align="center" alt="tor" height="30" width="40" src="https://raw.githubusercontent.com/TheTorProject/tor-media/refs/heads/master/Onion%20Icon/Onion_Color.svg">
   <img align="center" alt="azure" height="30" width="40" src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/logos/azure-offical.svg">
+  <img align="center" alt="terraform" height="30"
+with="40" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg">
   <img align="center" alt="arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
