@@ -15,7 +15,7 @@
 
 ##
 <div>
-  <a href="https://www.linkedin.com/in/jhonata-borges-316b90194?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonata-borges-316b90194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app” target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![GIF programando](ezgif-2d3ddd640d75eb.gif)
