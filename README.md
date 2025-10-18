@@ -14,5 +14,8 @@
 </div>
 
 ##
+<div>
+  <a href="https://www.linkedin.com/in/jhonata-borges-316b90194?" target="_blank"><img src="https://www.svgrepo.com/show/353999/linkedin.svg" target="_blank"></a>
+</div>
 
 ![GIF programando](ezgif-2d3ddd640d75eb.gif)
