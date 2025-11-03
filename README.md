@@ -14,4 +14,6 @@
 <div>
   <div align="center">
   <a href="http:\\www.linkedin.com\in\jhonata-borges-316b90194?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![dark animation](https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/custom-dark.svg)
 </div>
