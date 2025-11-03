@@ -13,5 +13,5 @@
 ##
 <div>
   <div align="center">
-  <a href="https://github.com/jhonattaC" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="http:\\wwww.linkedin.com\in\jhonata-borges-316b90194?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
