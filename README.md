@@ -7,7 +7,9 @@
   <img align="center" alt="SQL" height="35" width="40" src="https://code.benco.io/icon-collection/azure-icons/SQL-Database.svg">
   <img align="center" alt="Assembly" height="45" width="40" src="https://www.svgrepo.com/show/373445/assembly.svg">
   <img align="center" alt="Shell" height="35" width="40" src="https://raw.githubusercontent.com/onsamyj/WindowsTerminalIcons/d1b1f98e7c9ea6f33ea39ecf6b40a685bd29e744/SVGs/PowerShell.svg">
-  <img align="center" alt="VScode" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
+  <img align="center" alt="VScode" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
+  <img align="right" alt="gif" height="125" style="border-radius:50px;" src="https://raw.githubusercontent.com/jhonattaC/jhonattaC/refs/heads/main/IMG_7211.gif">
 </div> 
 
 ##
